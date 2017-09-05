@@ -7,14 +7,7 @@
 #include <SPI.h>
 #include <DHT.h>
 
-<<<<<<< HEAD
-=======
-/*
-Librerias personalizadas
- */
 
-
->>>>>>> b16d9b7c4b1823097aa6398c353e83ff7342b14c
 //Constantes de coneccion a WiFi
 const char* ssid = "CEISUFRO";
 const char* password = "DCI.2016";

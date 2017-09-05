@@ -5,7 +5,7 @@ Sensor de humedad y temperatura DHT11
 Este proyecto tiene por objetivo enviar datos mediante MQTT y webservice implementado sobre typo3.
 
 Diagrama de Conección
-![DHT11](./images/DHT11 conecciones.png)
+![DHT11](./images/DHT11conecciones.png)
 
 ## Hardware
   - nodemcu
